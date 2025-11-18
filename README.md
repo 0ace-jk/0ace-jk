@@ -23,20 +23,23 @@ Fique à vontade para me chamar. Será um prazer trocar ideias sobre dados e tec
 ### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ace-jk&layout=compact&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/anuraghazra/github-readme-stats)
 <!--Icones das linguagens utilizadas-->
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)<br>
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-213050?logo=python&logoColor=fff)](#)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-213050?logo=apachespark&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-213050?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-213050?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-213050?logo=pandas&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-213050?logo=selenium&logoColor=fff)](#)<br>
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-213050.svg?logo=vsc&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-213050?logo=neovim&logoColor=fff)](#)
+[![Notepad++](https://img.shields.io/badge/Notepad++-213050.svg?&logo=notepad%2b%2b&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-213050?logo=windows11&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-213050?logo=linux&logoColor=white)](#)
 <!---->
 
 ### Contatos
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/antoniomourajr/)
+<!--
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:antonio&#46;junior460&#64;gmail&#46;com)
-
+-->
+[![Github](https://img.shields.io/badge/Github-213050?logo=Github&logoColor=white)](https://github.com/0ace-jk)<br>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-213050?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/antoniomourajr/)<br>
+[![E-mail](https://img.shields.io/badge/E--mail-213050?logo=Minutemailer&logoColor=white)](mailto:antonio&#46;junior460&#64;gmail&#46;com)
