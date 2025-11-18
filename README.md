@@ -5,7 +5,7 @@ Estilo do tema e cor de fundo dos cards:
 ### Olá 👋
 
 ###### Sobre o Antonio
-Há dois anos, dedico-me ao desenvolvimento de soluções em análise de dados. Minha jornada é guiada por uma genuína paixão por números: encontrei na estatística e na programação as ferramentas ideais para traduzir dados complexos em clareza.<br>
+Há um ano, me dedico ao desenvolvimento de soluções em análise de dados. Minha jornada é guiada por uma genuína paixão por números: encontrei na estatística e na programação as ferramentas ideais para traduzir dados complexos em clareza.<br>
 Neste portfólio, você encontrará projetos selecionados que demonstram não apenas minha capacidade técnica, mas meu foco em resultados práticos para o mercado.<br>
 Fique à vontade para me chamar. Será um prazer trocar ideias sobre dados e tecnologia.
 
