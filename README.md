@@ -1,8 +1,7 @@
 <!-- 
 Estilo do tema e cor de fundo dos cards:
-&theme=city_lights&bg_color=DEG,00000075,31577535,21305075
+&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035
 -->
-
 ### Olá 👋
 
 ###### Sobre o Antonio
@@ -11,17 +10,18 @@ Neste portfólio, você encontrará projetos selecionados que demonstram não ap
 Fique à vontade para me chamar. Será um prazer trocar ideias sobre dados e tecnologia.
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ace-jk&hide=issues,contribs&show_icons=true&theme=city_lights&bg_color=DEG,00000075,31577535,21305075)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ace-jk&hide=issues,contribs&show_icons=true&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=previsao_renda&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,31577535,21305075)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=previsao_de_tempo_de_entrega&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,31577535,21305075)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=Credit-Score&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,31577535,21305075)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=telemarketing&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,31577535,21305075)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=previsao_renda&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=previsao_de_tempo_de_entrega&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=Credit-Score&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=telemarketing&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/anuraghazra/github-readme-stats)
 
+[theme_setup]: &theme=city_lights&bg_color=DEG,00000075,31577535,21305075
 
 ### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ace-jk&layout=compact&theme=city_lights&bg_color=DEG,00000075,31577535,21305075)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ace-jk&layout=compact&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/anuraghazra/github-readme-stats)
 <!--Icones das linguagens utilizadas-->
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
@@ -29,7 +29,6 @@ Fique à vontade para me chamar. Será um prazer trocar ideias sobre dados e tec
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)<br>
-<!--Icones das ferramentas utilizadas-->
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
