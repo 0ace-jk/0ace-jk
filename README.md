@@ -6,7 +6,10 @@ Estilo do tema e cor de fundo dos cards:
 ### Olá 👋
 
 ###### Sobre o Antonio
-2 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento de analises de dados.
+2 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento de analises de dados.<br>
+Tenho uma paixão por números e, depois de alguns anos aprendendo sobre dados, encontrei um lugar confortável usando estatística no conforto do meu computador e levando 10h para automatizar tarefas que levariam 10min para serem feitas sem automatização.<br>
+Abaixo você podera descobrir um pouco mais sobre mim e também alguns projetos que realmente tenham impacto e uso no meio profissional.<br>
+Sinta-se livre para me chamar para qualquer assunto ou tirar dúvidas.
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ace-jk&hide=issues,contribs&show_icons=true&theme=city_lights&bg_color=DEG,00000075,31577535,21305075)](https://github.com/anuraghazra/github-readme-stats)
