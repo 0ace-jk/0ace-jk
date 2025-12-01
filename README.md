@@ -16,7 +16,7 @@ Fique à vontade para me chamar. Será um prazer trocar ideias sobre dados e tec
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=previsao_renda&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/0ace-jk/previsao_renda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=previsao_de_tempo_de_entrega&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/0ace-jk/previsao_de_tempo_de_entrega)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=Credit-Score&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/0ace-jk/Credit-Score)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=telemarketing&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/0ace-jk/telemarketing)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0ace-jk&repo=telemarketing&description_lines_count=3&theme=city_lights&bg_color=DEG,00000075,21305035,31577555,21305035)](https://github.com/0ace-jk/telemarketing)-->
 
 [theme_setup]: &theme=city_lights&bg_color=DEG,00000075,31577535,21305075
 
